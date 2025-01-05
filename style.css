@@ -79,3 +79,10 @@ button {
     align-items: center;
     justify-content: center;
 }
+
+#result {
+    margin-top: 50px;
+    text-align: center;
+    font-family: Arial, sans-serif; 
+    font-size: 16px;
+}
