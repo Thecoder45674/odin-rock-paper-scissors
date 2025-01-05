@@ -14,3 +14,6 @@ The Rock-Paper-Scissors Game is an interactive web application designed to demon
 
 - HTML
 - JavaScript
+
+## Live Demo
+[View Live Project Here](https://thecoder45674.github.io/rock-paper-scissors-game/)
