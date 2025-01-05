@@ -1,0 +1,81 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    background-color: #f0f0f0;
+}
+
+.gameName {
+    text-align: center;
+    font-family: Arial, sans-serif; 
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 50px;
+}
+
+.gameContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    max-width: 620px; /* Max width based on button total */
+    margin-bottom: 50px;
+}
+
+button {
+    flex: 1;
+    max-width: 200px;
+    min-width: 120px;
+    height: 50px;
+    font-family: Arial, sans-serif; 
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    max-width: 310px; /* Max width based on button dimensions */
+    height: 100px;
+    margin: 0;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.scores {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.scores h2 {
+    margin-top: 10px;
+    font-family: Arial, sans-serif; 
+    font-size: 20px;
+    color: #333;
+}
+
+.scores p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.human, .computer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
