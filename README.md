@@ -1,17 +1,14 @@
 # Rock-Paper-Scissors Game
 
-A simple web-based game project built as part of The Odin Project curriculum using HTML and JavaScript.
+## Table of Contents
+- [General Info](#general-info)
+- [Technologies Used](#technologies-used)
+- [Live Demo](#live-demo)
 
-## Description
-
-The Rock-Paper-Scissors Game is an interactive web application designed to demonstrate fundamental web development skills. This project showcases a straightforward and engaging gameplay experience where users can compete against a computer. The main objectives include:
-
-- Implementing game logic using JavaScript functions.
-- Interacting with users through prompts and alerts.
-- Maintaining and displaying scores across multiple rounds.
+## General Info
+The Rock-Paper-Scissors game is a simple web-based application built to practice JavaScript and user interaction. Users can compete against a computer in the classic game, making choices and seeing the results instantly.
 
 ## Technologies Used
-
 - HTML
 - JavaScript
 
